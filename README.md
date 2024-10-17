@@ -18,7 +18,7 @@
 
 ### Desktop Preview
 
-"C:\Users\kpaja\Videos\Captures\index.html - MY PORT_FOLIO - Visual Studio Code 2024-10-17 21-19-15.mp4"
+"kpajay3570_Port - Google Chrome 2024-10-17 21-31-05.mp4"
 
 ### Prerequisites
 

@@ -136,7 +136,7 @@ git clone https://github.com/kpajay3570/portfolio-website.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [mail](kpajay932@gmail).
+If you want to contact with me you can reach me at (kpajay932@gmail).
 
 ### License
 

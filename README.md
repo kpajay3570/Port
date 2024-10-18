@@ -125,13 +125,13 @@ To run **Personal Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/portfolio-website.git
+sudo git clone https://github.com/kpajay3570/portfolio-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/portfolio-website.git
+git clone https://github.com/kpajay3570/portfolio-website.git
 ```
 
 ### Contact
